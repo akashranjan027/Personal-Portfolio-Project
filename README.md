@@ -1,5 +1,13 @@
 # Personal-Portfolio-Project
 Created a Responsive Portfolio webpage using HTML  ,  CSS, JAVASCRIPT
+RESPONSIVE	PORTFOLIO WEBPAGE:
+•	Landing page using HTML,CSS,JAVASCRIPT
+•	ADDED 	NAVBAR	for sections of page
+•	DOWNLOAD	CV	option
+•	Added project images 
+•	Added attractive fonts 
+•	Created  a Contact Form
+
 ![image](https://user-images.githubusercontent.com/63308438/160887671-b1722671-a65e-427a-bc70-97403cd36ac0.png)
 ![image](https://user-images.githubusercontent.com/63308438/160887721-facf53dd-a93f-4d77-bd6a-158a8ccab814.png)
 ![image](https://user-images.githubusercontent.com/63308438/160887756-17fd7f49-e6f3-483e-a5e6-fb60180f4abe.png)
